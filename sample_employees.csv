@@ -1,0 +1,7 @@
+Employee ID,First Name,Last Name,Email,Phone,Title,Department,Hire Date,Salary,Status,Manager ID
+EMP100,John,Smith,john.smith@example.com,+1-555-1001,Software Engineer,Technology,2023-01-15,95000,active,
+EMP101,Jane,Doe,jane.doe@example.com,+1-555-1002,Product Manager,Product,2023-02-01,110000,active,
+EMP102,Bob,Johnson,bob.johnson@example.com,+1-555-1003,Data Analyst,Finance,2023-03-10,85000,active,
+EMP103,Alice,Williams,alice.williams@example.com,+1-555-1004,HR Coordinator,Human Resources,2023-04-01,65000,active,
+EMP104,Charlie,Brown,charlie.brown@example.com,+1-555-1005,Senior Engineer,Technology,2023-05-15,130000,active,
+
